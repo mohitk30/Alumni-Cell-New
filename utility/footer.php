@@ -10,6 +10,6 @@
 
 
 <!-- add js files here -->
-<script src="/script/filename.js"></script>
+<!-- <script src="/script/filename.js"></script> -->
 
 </html>
