@@ -3,9 +3,9 @@
 <div class="event_container">
     <!-- write your code below this line and also don't remove this line -->
     <div class="event-img">
-  {
-  <img class="event-image"  src="7450159.png" alt="image">
-  }
+   
+  <img class="event-image"  src="./7450159.png" alt="image">
+   
 
 </div>
 <div class="events">

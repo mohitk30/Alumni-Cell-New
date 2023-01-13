@@ -1,8 +1,7 @@
 .event-image
 {
   position:absolute;
-  top:3179px;
-  left:50px;
+  
   width: 550px;
   padding-right: 30px;
 }
@@ -11,16 +10,14 @@
   position: relative;
   width: 600px;
   height: 730px;
-  left: 650px;
-  top: 3179px;
+   
 
   background: #FCFFE7;
 }
 .heading
 {
 position:absolute;
- top:109px;
-  left: 86px;
+ 
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -77,8 +74,7 @@ color: #000000;
   width: 350px;
 height: 120px;
   position:absolute;
-  top:199px;
-  left:98px;
+ 
 
 
   background: #FEFEFE;
@@ -87,8 +83,8 @@ border: 1px solid #DCD6D6;
 .event-date-1
 {
   position:relative;
-  left:345px;
-  bottom:106px;
+   
+   
   width:120px;
   height:120px;
   padding-left:9px;
@@ -115,8 +111,7 @@ color: #FFFFFF;
   width: 350px;
 height: 120px;
   position:relative;
-  top:364px;
-  left:98px;
+  
 
 
   background: #FEFEFE;
@@ -128,8 +123,7 @@ border: 1px solid #DCD6D6;
   width: 350px;
 height: 120px;
   position:relative;
-  top:425px;
-  left:98px;
+ 
 
 
   background: #FEFEFE;
@@ -138,8 +132,7 @@ border: 1px solid #DCD6D6;
 .upcom-evt
 {
   position:absolute;
-  top:3800px;
-  left:10px;
+  
   width: 580px;
   height: 100px;
   background: #EB455F;

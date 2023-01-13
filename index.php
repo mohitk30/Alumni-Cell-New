@@ -3,7 +3,7 @@
 
 <div class="home_container">
     <!-- write your code below this line and also don't remove this line -->
-    This is home page
+    <?php include './utility/events.php' ?>
 </div>
 
 <?php include './utility/footer.php' ?>
