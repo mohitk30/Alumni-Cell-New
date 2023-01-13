@@ -1,0 +1,160 @@
+.event-image
+{
+  position:absolute;
+  top:3179px;
+  left:50px;
+  width: 550px;
+  padding-right: 30px;
+}
+.events
+{
+  position: relative;
+  width: 600px;
+  height: 730px;
+  left: 650px;
+  top: 3179px;
+
+  background: #FCFFE7;
+}
+.heading
+{
+position:absolute;
+ top:109px;
+  left: 86px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 112.68%;
+
+
+display: inline-block;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+.event-type
+{
+  padding-top:24px;
+  padding-left:19px;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 112.68%;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+.event-title-1
+{
+  padding-top:27px;
+  padding-left:19px;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 112.68%;
+
+
+display: inline-block;
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+}
+.event-card-1
+{
+  box-sizing: border-box;
+  width: 350px;
+height: 120px;
+  position:absolute;
+  top:199px;
+  left:98px;
+
+
+  background: #FEFEFE;
+border: 1px solid #DCD6D6;
+}
+.event-date-1
+{
+  position:relative;
+  left:345px;
+  bottom:106px;
+  width:120px;
+  height:120px;
+  padding-left:9px;
+  padding-right:10px;
+  background: #2B3467;
+border: 1px solid #DCD6D6;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 112.68%;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+}
+.event-card-2
+{
+  box-sizing: border-box;
+  width: 350px;
+height: 120px;
+  position:relative;
+  top:364px;
+  left:98px;
+
+
+  background: #FEFEFE;
+border: 1px solid #DCD6D6;
+}
+.event-card-3
+{
+  box-sizing: border-box;
+  width: 350px;
+height: 120px;
+  position:relative;
+  top:425px;
+  left:98px;
+
+
+  background: #FEFEFE;
+border: 1px solid #DCD6D6;
+}
+.upcom-evt
+{
+  position:absolute;
+  top:3800px;
+  left:10px;
+  width: 580px;
+  height: 100px;
+  background: #EB455F;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 110%;
+padding-left: 50px;
+  text-align: centre;
+
+
+
+
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+}
