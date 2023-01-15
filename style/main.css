@@ -1,23 +1,26 @@
 .event-image
 {
   position:absolute;
-  
-  width: 550px;
+  display: inline-block;
+  width: 500px;
+  /* padding-top:60px; */
+  padding-left: 10px;
   padding-right: 30px;
 }
 .events
 {
+  margin-left:560px;
   position: relative;
-  width: 600px;
-  height: 730px;
-   
-
+  width: 700px;
+  height: 640px;
+  display:inline-block;
   background: #FCFFE7;
 }
 .heading
 {
 position:absolute;
- 
+ margin-left:86px;
+  margin-top:50px;
 
 font-family: 'Open Sans';
 font-style: normal;
@@ -42,10 +45,9 @@ font-weight: 600;
 font-size: 24px;
 line-height: 112.68%;
 
-
-display: flex;
+width:300px;
+display: inline-block;
 align-items: center;
-text-align: center;
 letter-spacing: -0.02em;
 
 color: #000000;
@@ -59,8 +61,7 @@ font-style: normal;
 font-weight: 600;
 font-size: 24px;
 line-height: 112.68%;
-
-
+  width:300px;
 display: inline-block;
 
 letter-spacing: -0.02em;
@@ -72,22 +73,19 @@ color: #000000;
 {
   box-sizing: border-box;
   width: 350px;
-height: 120px;
+  height: 120px;
   position:absolute;
- 
-
-
+  margin-left:86px;
+  margin-top:149px;
   background: #FEFEFE;
 border: 1px solid #DCD6D6;
 }
 .event-date-1
 {
-  position:relative;
-   
-   
+  position:absolute;
+
   width:120px;
   height:120px;
-  padding-left:9px;
   padding-right:10px;
   background: #2B3467;
 border: 1px solid #DCD6D6;
@@ -98,7 +96,7 @@ font-size: 48px;
 line-height: 112.68%;
 
 
-display: flex;
+display: inline-block;
 align-items: center;
 text-align: center;
 letter-spacing: -0.02em;
@@ -109,11 +107,10 @@ color: #FFFFFF;
 {
   box-sizing: border-box;
   width: 350px;
-height: 120px;
-  position:relative;
-  
-
-
+  height: 120px;
+  position:absolute;
+  margin-left:86px;
+  margin-top:309px;
   background: #FEFEFE;
 border: 1px solid #DCD6D6;
 }
@@ -122,18 +119,17 @@ border: 1px solid #DCD6D6;
   box-sizing: border-box;
   width: 350px;
 height: 120px;
-  position:relative;
- 
-
-
+  position:absolute;
+  margin-left:86px;
+  margin-top:469px;
   background: #FEFEFE;
 border: 1px solid #DCD6D6;
 }
 .upcom-evt
 {
   position:absolute;
-  
-  width: 580px;
+  margin-top: 540px;
+  width: 500px;
   height: 100px;
   background: #EB455F;
   font-family: 'Open Sans';
@@ -141,11 +137,9 @@ font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 110%;
-padding-left: 50px;
+padding-left: 20px;
   text-align: centre;
-
-
-
+  display:inline-block;
 
 letter-spacing: -0.02em;
 
