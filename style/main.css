@@ -155,3 +155,19 @@ letter-spacing: -0.02em;
 
 color: #FFFFFF;
 }
+.gallary_container
+{
+  position:absolute;
+  background-color: #FCFFE7;
+}
+.gallery-img
+{
+  width:45%;
+  margin: 0 auto 0 auto;
+}
+.img-container
+{
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
