@@ -8,11 +8,11 @@
 
 .event-image
 {
-    
-   
+
+
   width: 50%;
-  
- 
+
+
 }
 .events
 {
@@ -137,8 +137,8 @@ border: 1px solid #DCD6D6;
 }
 .upcom-evt
 {
-   
-   
+
+
   width: 100%;
   height: 15%;
   background: #EB455F;
@@ -146,12 +146,62 @@ border: 1px solid #DCD6D6;
   font-style: normal;
   font-weight: 700;
   font-size: 46px;
-   
-  
+
+
   text-align: center;
    padding-top: 3%;
 
 letter-spacing: -0.02em;
 
 color: #FFFFFF;
+}
+
+.footer
+{
+  background-color: #BAD7E9;
+  margin: auto;
+  width: 100%;
+  border: 3px;
+  padding-top: 1.5%;
+  /* padding-left: 40%; */
+
+}
+
+.Dfoot{
+
+  margin: auto;
+  width: 100%;
+  border: 3px;
+  padding-top: 2%;
+  padding-left: 40%;
+}
+
+.flex-container{
+  display: flex;
+}
+
+.container{
+  display: flex;
+}
+
+.img{
+  width: 50%;
+  padding-left: 30%;
+  border: 20px;
+}
+.image{
+/*  width: 50%;
+    padding-left: 90%;*/
+    width: 50%;
+    padding-left: 30%;
+    border: 20px;
+}
+
+.txt{
+  padding-up=30%;
+}
+.text{
+  padding-up=30%;
+  padding-left: 120%;
+
 }
