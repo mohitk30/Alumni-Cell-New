@@ -171,3 +171,59 @@ color: #FFFFFF;
   padding-top: 5%;
   padding-bottom: 5%;
 }
+.about_container
+{
+    background-color: #FCFFE7;
+
+}
+.about-title
+{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 112.68%;
+/* or 63px */
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 5%;
+
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #EB455F;
+
+
+}
+.about
+{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118.18%;
+/* or 28px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 2%;
+padding-bottom: 5%;
+
+color: #000000;
+
+}
+.college-img{
+    text-align: center;
+    padding-bottom: 5%;
+}
+.image-NIT
+{
+    width: 85%;
+    height: 85%;
+    
+}
