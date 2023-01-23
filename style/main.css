@@ -1,3 +1,8 @@
+body{
+  margin: auto;
+  width: 100%;
+  max-width: 1440px;
+}
 .event_container{
   margin: auto;
   max-width: 1440px;
@@ -155,15 +160,20 @@ letter-spacing: -0.02em;
 
 color: #FFFFFF;
 }
-<<<<<<< HEAD
-
+.footer-container{
+  margin: auto;
+  width: 100%;
+  max-width: 1440px;
+  
+   
+}
 .footer
 {
   background-color: #BAD7E9;
   margin: auto;
   width: 100%;
-  border: 3px;
-  padding-top: 1.5%;
+  /* border: 3px; */
+  /* padding-top: 1.5%; */
   /* padding-left: 40%; */
 
 }
@@ -171,19 +181,28 @@ color: #FFFFFF;
 .Dfoot{
 
   margin: auto;
-  width: 100%;
-  border: 3px;
-  padding-top: 2%;
-  padding-left: 40%;
+   
+  /* border: 3px; */
+  padding: 22px;
+    
+  text-align: center;
+  font-weight: 600;
+   
 }
-
+.copyrights{
+  padding: 22px;
+  width: 100%;
+}
 .flex-container{
   display: flex;
+  padding: 22px;
 }
 
 .container{
   display: flex;
 }
+
+
 
 .img{
   width: 50%;
@@ -198,30 +217,43 @@ color: #FFFFFF;
     border: 20px;
 }
 
+
 .txt{
-  padding-up=30%;
+  /* padding:12px; */
 }
 .text{
-  padding-up=30%;
-  padding-left: 120%;
+ /* padding-top:12px; */
+  /* padding-left: 120%; */
 
 }
-=======
 .gallary_container
 {
+<<<<<<< HEAD
 
+=======
+   width: 100%;
+>>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
   background-color: #FCFFE7;
+  display: flex;
+  flex-wrap: wrap;
 }
 .gallery-img
 {
-  width:45%;
-  margin: 0 auto 0 auto;
+  width:49.6% !important;
+  height: 250px !important;
+  max-height: 300px !important;
+  /* margin: auto; */
 }
 .img-container
 {
-  padding-left: 10%;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  /* padding-left: 10%; */
+  /* padding-top: 5%; */
+  /* padding-bottom: 5%; */
+  /* padding: 5% 10%; */
+  width: 80%;
+  margin: auto;
+   padding-top: 5%;
+  padding-bottom: 5%; 
 }
 .about_container
 {
@@ -282,6 +314,7 @@ color: #000000;
     height: 85%;
 
 }
+<<<<<<< HEAD
 >>>>>>> 9b3d910085f2d44e954c62814ed6d4aeb6432fe5
 
 body{
@@ -389,3 +422,5 @@ dt{
   font-family: 'Plus Jakarta Sans';
   font-style: normal;
 }
+=======
+>>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
