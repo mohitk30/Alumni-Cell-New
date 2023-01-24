@@ -1,17 +1,17 @@
-<?php include('/utility/header.php') ?>
+<?php include './utility/header.php'  ?>
 <!-- this file contain the contact section -->
 
 
 <div class="contact_container">
     <!-- write your code below this line and also don't remove this line -->
-    <div class="title">
-      <h1>Contact Alumni Cell NIT Delhi</h1>
+    <div class="title"> <h1>Contact Alumni Cell NIT Delhi</h1></div>
 
-        <div class="image">
-          <img  class="first" src="C:\Users\Lenovo\OneDrive\Desktop\contact\Rectangle 27.png" alt="">
-          <div class="description">
+        <div class="image_map">
+         <div class="map_div"> <img  class="map_nit_delhi" src="./Rectangle 27.png" alt="" height="100%" width="100%"></div>
+         
+         <div class="description">
              <h3>Get in touch</h3>
-          <dl>
+             <dl>
             <dt class="icon1"> ◉Address</dt>
 
 
@@ -48,4 +48,6 @@
 
 </div>
 
-<?php include('/utility/footer.php') ?>
+<?php 
+include './utility/footer.php'
+ ?>

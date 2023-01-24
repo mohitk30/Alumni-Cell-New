@@ -218,21 +218,9 @@ color: #FFFFFF;
 }
 
 
-.txt{
-  /* padding:12px; */
-}
-.text{
- /* padding-top:12px; */
-  /* padding-left: 120%; */
-
-}
 .gallary_container
 {
-<<<<<<< HEAD
-
-=======
    width: 100%;
->>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
   background-color: #FCFFE7;
   display: flex;
   flex-wrap: wrap;
@@ -314,8 +302,24 @@ color: #000000;
     height: 85%;
 
 }
-<<<<<<< HEAD
->>>>>>> 9b3d910085f2d44e954c62814ed6d4aeb6432fe5
+.contact_container{
+  max-width: 1440px;
+  width: 100%;
+  margin: auto;
+  padding:22px;
+  box-sizing: border-box;
+  margin: 0;
+}
+.image_map{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.map_div{
+  width: 50%;
+  height: 400px;
+}
 
 body{
 background-color:  #FCFFE7
@@ -330,29 +334,30 @@ font-weight: 700;
 }
 .image{
   /* margin-left: 10%; */
-  background-color: white;
-  margin-right: 10%;
-  margin-left: 5%;
+  /* background-color: white; */
+  /* margin-right: 10%; */
+  /* margin-left: 5%; */
 }
 .title{
   padding-top: 2%;
-  padding-left: 4%;
-  padding-bottom: 3%;
+  /* padding-left: 4%; */
+  /* padding-bottom: 3%; */
   color: red;
 }
 
-.first{
-  width: 40%;
-  height:30%;
+.map_nit_delhi{
+  height: 400px;
+  width: 100%;
 }
 .description{
-  display: inline-block;
+  /* display: inline-block; */
   color:black;
-  position :absolute;
-  margin-top: 0;
+  /* position :absolute; */
+  /* margin-top: 0; */
   background-color: white;
-
-  margin-right: 10%;
+ width: 45% !important;
+ height: 400px;
+  /* margin-right: 10%; */
 
 }
 h3{
@@ -422,5 +427,4 @@ dt{
   font-family: 'Plus Jakarta Sans';
   font-style: normal;
 }
-=======
->>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
+
