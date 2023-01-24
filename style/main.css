@@ -228,7 +228,11 @@ color: #FFFFFF;
 }
 .gallary_container
 {
+<<<<<<< HEAD
+
+=======
    width: 100%;
+>>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
   background-color: #FCFFE7;
   display: flex;
   flex-wrap: wrap;
@@ -308,5 +312,115 @@ color: #000000;
 {
     width: 85%;
     height: 85%;
-    
+
 }
+<<<<<<< HEAD
+>>>>>>> 9b3d910085f2d44e954c62814ed6d4aeb6432fe5
+
+body{
+background-color:  #FCFFE7
+}
+
+h1{
+  margin-left: 5%;
+  margin-bottom: 3%;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+}
+.image{
+  /* margin-left: 10%; */
+  background-color: white;
+  margin-right: 10%;
+  margin-left: 5%;
+}
+.title{
+  padding-top: 2%;
+  padding-left: 4%;
+  padding-bottom: 3%;
+  color: red;
+}
+
+.first{
+  width: 40%;
+  height:30%;
+}
+.description{
+  display: inline-block;
+  color:black;
+  position :absolute;
+  margin-top: 0;
+  background-color: white;
+
+  margin-right: 10%;
+
+}
+h3{
+  padding-left: 4%;
+}
+
+
+
+.small{
+  width: 60%;
+  height: 15%;
+  padding-left: 8%;
+  margin-bottom: 5%;
+  margin-top: 2%;
+
+
+
+}
+
+.icon1{
+  padding-left: 10%;
+  font-weight: Bold;
+
+}
+
+.Email{
+  width: 60%;
+  height: 15%;
+  padding-left: 8%;
+  margin-bottom: 5%;
+  margin-top: 2%;
+
+
+}
+
+.icon2{
+  padding-left: 10%;
+  font-weight: Bold;
+
+}
+.Phone{
+  width: 60%;
+  height: 15%;
+  padding-left: 8%;
+  margin-top: 2%;
+
+
+}
+
+.icon3{
+  padding-left: 10%;
+  font-weight: Bold;
+
+}
+
+dl{
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+}
+.Phone{
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: bold;
+}
+dt{
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+}
+=======
+>>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
