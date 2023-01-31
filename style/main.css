@@ -310,3 +310,138 @@ color: #000000;
     height: 85%;
     
 }
+.register
+{
+  display: inline-block;
+  margin-left:0;
+  padding-top:6%;
+  padding-left:5%;
+  padding-bottom:6%;
+  width:50%;
+  height:70%;
+  background-color: #BAD7E9;
+  color:#2B3467;
+
+}
+.title-h
+{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size:500%;
+  line-height: 112.68%;
+}
+.connect
+{
+  color:#EB455F;
+}
+.register-h
+{
+  background: #FCFFE7;
+  margin-top:2%;
+  width:24%;
+  padding-top:1%;
+  padding-left:1%;
+  padding-bottom:1%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 112.68%;
+}
+.home-img
+{
+  display: inline-block;
+  width:55%;
+  margin-top:0;
+  margin-left: 10%;
+  padding-left: 15%;
+}
+.home-img-div
+{
+  display: inline-block;
+}
+.connect-h
+{
+  background-color: #FCFFE7;
+  text-align: center;
+  padding-top:4%;
+  padding-bottom:4%;
+}
+.c-heading
+{
+  display: block;
+  padding-bottom:4%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 112.68%;
+  color: #2B3467;
+  font-size:150%;
+}
+.lilogo
+{
+  padding-right: 10%;
+  display:inline-block;
+  width:auto;
+}
+.flogo
+{
+  padding-right: 10%;
+  display:inline-block;
+  width:auto;
+}
+.inslogo
+{
+  padding-right: 10%;
+  display:inline-block;
+  width:auto;
+}
+.twlogo
+{
+  display:inline-block;
+  width:auto;
+}
+.Alumni-h
+{
+  padding: 3% 0 3% 0;
+  color: #EB455F;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  line-height: 112.68%;
+  font-size: 155%;
+
+}
+.our-alumni
+{
+  background-color:#BAD7E9;
+  align-items: center;
+}
+.Alumni-card
+{
+  background-color: #ffff;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  width:20%;
+  margin: 2% 5% 2% 7%;
+}
+.alumni-img
+{
+  padding-top: 15%;
+  padding-bottom: 5%;
+  width:70%;
+  height: 70%;
+  border-radius: 70%;
+}
+.logo
+{
+  padding: 4% 7% 4% 7%;
+}
+.link
+{
+  text-align: center;
+  padding: 4% 7% 4% 7%;
+}
+
