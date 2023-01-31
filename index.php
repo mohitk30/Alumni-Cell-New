@@ -114,9 +114,9 @@
     </div>
 
     
-    <?php include './utility/events.php' ?>
+    <!-- <?php include ('./contact.php') ?> -->
     <?php 
-       //   include './gallary.php'
+         include './gallary.php'
      ?> 
 </div>
 
