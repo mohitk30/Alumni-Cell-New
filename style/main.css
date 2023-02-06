@@ -218,21 +218,9 @@ color: #FFFFFF;
 }
 
 
-.txt{
-  /* padding:12px; */
-}
-.text{
- /* padding-top:12px; */
-  /* padding-left: 120%; */
-
-}
 .gallary_container
 {
-<<<<<<< HEAD
-
-=======
    width: 100%;
->>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
   background-color: #FCFFE7;
   display: flex;
   flex-wrap: wrap;
@@ -314,8 +302,158 @@ color: #000000;
     height: 85%;
 
 }
-<<<<<<< HEAD
->>>>>>> 9b3d910085f2d44e954c62814ed6d4aeb6432fe5
+.register
+{
+  display: inline-block;
+  margin-left:0;
+  padding-top:6%;
+  padding-left:5%;
+  padding-bottom:6%;
+  width:50%;
+  height:70%;
+  background-color: #BAD7E9;
+  color:#2B3467;
+
+}
+.title-h
+{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size:500%;
+  line-height: 112.68%;
+}
+.connect
+{
+  color:#EB455F;
+}
+.register-h
+{
+  background: #FCFFE7;
+  margin-top:2%;
+  width:24%;
+  padding-top:1%;
+  padding-left:1%;
+  padding-bottom:1%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 112.68%;
+}
+.home-img
+{
+  display: inline-block;
+  width:55%;
+  margin-top:0;
+  margin-left: 10%;
+  padding-left: 15%;
+}
+.home-img-div
+{
+  display: inline-block;
+}
+.connect-h
+{
+  background-color: #FCFFE7;
+  text-align: center;
+  padding-top:4%;
+  padding-bottom:4%;
+}
+.c-heading
+{
+  display: block;
+  padding-bottom:4%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 112.68%;
+  color: #2B3467;
+  font-size:150%;
+}
+.lilogo
+{
+  padding-right: 10%;
+  display:inline-block;
+  width:auto;
+}
+.flogo
+{
+  padding-right: 10%;
+  display:inline-block;
+  width:auto;
+}
+.inslogo
+{
+  padding-right: 10%;
+  display:inline-block;
+  width:auto;
+}
+.twlogo
+{
+  display:inline-block;
+  width:auto;
+}
+.Alumni-h
+{
+  padding: 3% 0 3% 0;
+  color: #EB455F;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  line-height: 112.68%;
+  font-size: 155%;
+
+}
+.our-alumni
+{
+  background-color:#BAD7E9;
+  align-items: center;
+}
+.Alumni-card
+{
+  background-color: #ffff;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  width:20%;
+  margin: 2% 5% 2% 7%;
+}
+.alumni-img
+{
+  padding-top: 15%;
+  padding-bottom: 5%;
+  width:70%;
+  height: 70%;
+  border-radius: 70%;
+}
+.logo
+{
+  padding: 4% 7% 4% 7%;
+}
+.link
+{
+  text-align: center;
+  padding: 4% 7% 4% 7%;
+}
+.contact_container{
+  max-width: 1440px;
+  width: 100%;
+  margin: auto;
+  padding:22px;
+  box-sizing: border-box;
+  margin: 0;
+}
+.image_map{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.map_div{
+  width: 50%;
+  height: 400px;
+}
 
 body{
 background-color:  #FCFFE7
@@ -330,29 +468,37 @@ font-weight: 700;
 }
 .image{
   /* margin-left: 10%; */
-  background-color: white;
-  margin-right: 10%;
-  margin-left: 5%;
+  /* background-color: white; */
+  /* margin-right: 10%; */
+  /* margin-left: 5%; */
 }
 .title{
   padding-top: 2%;
-  padding-left: 4%;
-  padding-bottom: 3%;
+  /* padding-left: 4%; */
+  /* padding-bottom: 3%; */
   color: red;
 }
 
+<<<<<<< HEAD
 /* .first{
   width: 40%;
   height:30%;
 } */
+=======
+.map_nit_delhi{
+  height: 400px;
+  width: 100%;
+}
+>>>>>>> 6221bc3f2334dbdca777aebd10eef4f68f80188a
 .description{
-  display: inline-block;
+  /* display: inline-block; */
   color:black;
-  position :absolute;
-  margin-top: 0;
+  /* position :absolute; */
+  /* margin-top: 0; */
   background-color: white;
-
-  margin-right: 10%;
+ width: 45% !important;
+ height: 400px;
+  /* margin-right: 10%; */
 
 }
 h3{
@@ -422,5 +568,74 @@ dt{
   font-family: 'Plus Jakarta Sans';
   font-style: normal;
 }
-=======
->>>>>>> 8798c52eb7db06fad2537b3ffbc86138c18efd18
+
+/* navbar */
+
+nav>.container-fluid img{
+  width: 5%;
+  margin-left: 2rem;
+}
+
+nav>.container-fluid .nav-link{
+  color: #EB455F;
+}
+
+nav>.container-fluid .dropdown-item{
+  color: #EB455F;
+}
+
+nav>.container-fluid .title{
+  
+  padding-top: 0.05%;
+  margin-left: 1%;
+  margin-top: 0.75%;
+}
+
+nav>.container-fluid .btn{
+  border-radius: 0%;
+  font-weight: 400;
+  background: #2B3467;
+  padding: 0rem 2rem;
+  margin-left: 4rem;
+  margin-right: 2rem;
+}
+
+nav>.container-fluid .btn:hover{
+  background: #2B3467;
+}
+
+nav>.container-fluid .cell{
+  color: #EB455F;
+  width: 50%;
+  font-size: 1rem;
+}
+
+nav>.container-fluid .college{
+  margin-top: -6%;
+  font-weight: bolder;
+  width: 100%;
+  font-size: 1rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  nav>.container-fluid img{
+      width: 8%;
+  }
+  nav>.flexi{
+      display: flex;
+      flex-direction: row;
+  }
+  nav{
+      margin-top: 1%;
+  }
+  nav>.container-fluid .btn{
+      width: 25%;
+      margin-left: 0%;
+  }
+  nav>.container-fluid .title{
+      margin-left: 5%;
+      text-align: center;
+  }
+
+  
+}
