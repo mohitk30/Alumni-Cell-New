@@ -562,3 +562,73 @@ dt{
   font-style: normal;
 }
 
+/* navbar */
+
+nav>.container-fluid img{
+  width: 5%;
+  margin-left: 2rem;
+}
+
+nav>.container-fluid .nav-link{
+  color: #EB455F;
+}
+
+nav>.container-fluid .dropdown-item{
+  color: #EB455F;
+}
+
+nav>.container-fluid .title{
+  
+  padding-top: 0.05%;
+  margin-left: 1%;
+  margin-top: 0.75%;
+}
+
+nav>.container-fluid .btn{
+  border-radius: 0%;
+  font-weight: 400;
+  background: #2B3467;
+  padding: 0rem 2rem;
+  margin-left: 4rem;
+  margin-right: 2rem;
+}
+
+nav>.container-fluid .btn:hover{
+  background: #2B3467;
+}
+
+nav>.container-fluid .cell{
+  color: #EB455F;
+  width: 50%;
+  font-size: 1rem;
+}
+
+nav>.container-fluid .college{
+  margin-top: -6%;
+  font-weight: bolder;
+  width: 100%;
+  font-size: 1rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  nav>.container-fluid img{
+      width: 8%;
+  }
+  nav>.flexi{
+      display: flex;
+      flex-direction: row;
+  }
+  nav{
+      margin-top: 1%;
+  }
+  nav>.container-fluid .btn{
+      width: 25%;
+      margin-left: 0%;
+  }
+  nav>.container-fluid .title{
+      margin-left: 5%;
+      text-align: center;
+  }
+
+  
+}
