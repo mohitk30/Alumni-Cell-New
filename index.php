@@ -1,6 +1,8 @@
 <?php include './utility/header.php' ?>
 <!-- the is home page of website -->
-
+<?php 
+         include './utility/navbar.php'
+     ?> 
 <div class="home_container">
     <!-- write your code below this line and also don't remove this line -->
     <div class="register">
@@ -114,9 +116,11 @@
     </div>
 
     
-    <!-- <?php include ('./contact.php') ?> -->
     <?php 
-         include './gallary.php'
+    // include ('./contact.php') 
+    ?> 
+    <?php 
+         include './utility/events.php'
      ?> 
 </div>
 
