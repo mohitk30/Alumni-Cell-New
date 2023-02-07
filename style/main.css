@@ -479,10 +479,17 @@ font-weight: 700;
   color: red;
 }
 
+<<<<<<< HEAD
+/* .first{
+  width: 40%;
+  height:30%;
+} */
+=======
 .map_nit_delhi{
   height: 400px;
   width: 100%;
 }
+>>>>>>> 6221bc3f2334dbdca777aebd10eef4f68f80188a
 .description{
   /* display: inline-block; */
   color:black;
