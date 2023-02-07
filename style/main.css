@@ -205,18 +205,23 @@ color: #FFFFFF;
 
 
 .img{
-  width: 50%;
+  width: 100%;
   padding-left: 30%;
   border: 20px;
 }
 .image{
 /*  width: 50%;
     padding-left: 90%;*/
-    width: 50%;
+    width: 100%;
     padding-left: 30%;
     border: 20px;
 }
-
+.txt{
+  padding: 4px 12px;
+}
+.txt1{
+  padding: 4px 12px;
+}
 
 .gallary_container
 {
@@ -466,12 +471,7 @@ h1{
 font-style: normal;
 font-weight: 700;
 }
-.image{
-  /* margin-left: 10%; */
-  /* background-color: white; */
-  /* margin-right: 10%; */
-  /* margin-left: 5%; */
-}
+ 
 .title{
   padding-top: 2%;
   /* padding-left: 4%; */
@@ -479,17 +479,10 @@ font-weight: 700;
   color: red;
 }
 
-<<<<<<< HEAD
-/* .first{
-  width: 40%;
-  height:30%;
-} */
-=======
 .map_nit_delhi{
   height: 400px;
   width: 100%;
 }
->>>>>>> 6221bc3f2334dbdca777aebd10eef4f68f80188a
 .description{
   /* display: inline-block; */
   color:black;
@@ -667,8 +660,8 @@ font-style: normal;
   
 }
 .directorpic{
-width:16%;
-height:16%;
+width:40%;
+height:40%;
 float: left;
 padding-top: 1%;
 padding-left: 3%;
@@ -705,8 +698,8 @@ font-style: normal;
   color: #EB455F;
 }
 .chairmanpic{
-  width:17%;
-  height:17%;
+  width:40%;
+  height:40%;
   float: left;
   padding-top: 1%;
   padding-left: 3%;
