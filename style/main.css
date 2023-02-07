@@ -632,3 +632,82 @@ nav>.container-fluid .college{
 
   
 }
+.dirmsg{
+  font-family: 'Open Sans';
+font-style: normal;
+  background: #BAD7E9;
+  padding-left: 5%;
+  padding-right: 8%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  font-size: 17px;
+  
+}
+.DrMsg{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 112.68%;
+  padding-left: 1.7%;
+  padding-bottom: 2%;
+  
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+  
+  color: #EB455F;
+  
+}
+.directorpic{
+width:16%;
+height:16%;
+float: left;
+padding-top: 1%;
+padding-left: 3%;
+padding-right: 7%;
+}
+.dirpara2{
+  font-family: 'Open Sans';
+font-style: normal;
+  padding-left: 4%;   
+}
+.chairmanmsg{
+  font-family: 'Open Sans';
+  font-style: normal;
+      background: #FCFFE7;
+      padding-left: 5%;
+      padding-right: 8%;
+      padding-bottom: 5%;
+      padding-top: 5%;
+      font-size: 17px; 
+}
+.ChMsg{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 112.68%;
+  padding-left: 1.7%;
+  padding-bottom: 2%;
+  
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+  
+  color: #EB455F;
+}
+.chairmanpic{
+  width:17%;
+  height:17%;
+  float: left;
+  padding-top: 1%;
+  padding-left: 3%;
+  padding-right: 7%;
+  }
+
+  .chairpara2{
+      font-family: 'Open Sans';
+  font-style: normal;
+      padding-left: 4%;   
+  }
