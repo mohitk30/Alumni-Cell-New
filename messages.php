@@ -1,4 +1,4 @@
-<?php include('/utility/header.php') ?>
+<?php include './utility/header.php'  ?>
 <!-- this file contain the messages section -->
 
 <div class="messages_container">
@@ -6,4 +6,4 @@
 
 </div>
 
-<?php include('/utility/footer.php') ?>
+<?php include './utility/footer.php'  ?>
