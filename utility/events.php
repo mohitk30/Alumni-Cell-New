@@ -3,7 +3,7 @@
 <div class="event_container">
     <!-- write your code below this line and also don't remove this line -->
 <div class="event-img">
- <img class="event-image" height="85%" width="100%" src="../event_asset.png" alt="image">
+ <img class="event-image" height="85%" width="100%" src="../event_asset.jpeg" alt="image">
  <div class="upcom-evt">No Upcoming Event</div>
 </div>
 
