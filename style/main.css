@@ -165,9 +165,6 @@ body {
   color: #FFFFFF;
 }
 
-.footer-heading{
-  font-size: 1.3rem;
-}
 
 .container {
   display: flex;
@@ -544,7 +541,7 @@ dt {
   font-style: normal;
 }
 
-/* navbar */
+/* navbar  Rohit Beniwal*/
 
 nav>.container-fluid img {
   width: 5%;
@@ -618,6 +615,8 @@ nav>.container-fluid .college {
 
 
 }
+
+/* Navbar End */
 
 .dirmsg {
   font-family: 'Open Sans';
@@ -704,3 +703,11 @@ nav>.container-fluid .college {
   font-style: normal;
   padding-left: 4%;
 }
+
+/* Footer Rohit Beniwal */
+
+.footer-heading{
+  font-size: 1.3rem;
+}
+
+/* Footer End */

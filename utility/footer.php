@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" crossorigin="anonymous">
-    <title>Document</title>
-</head>
-<body>
     
 
   <!-- Footer -->
   <footer
           class="text-center text-lg-start text-white pt-5 py-5"
-          style="background-image: url(https://images.unsplash.com/photo-1475139441338-693e7dbe20b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80); "
+          style="background-color: #1e1e22;"
           >
     <!-- Grid container -->
     <div class="container p-4 pb-5">
@@ -29,13 +17,13 @@
           <div class="col-md-3 col-lg-3 col-xl-3 mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold footer-heading">Quick Links</h6>
 
-            <p> <a href="https://nitdelhi.ac.in/" class="text-white">NIT DELHI HOME PAGE</a></p>
+            <p> <a href="https://nitdelhi.ac.in/" class="text-white">NIT DELHI</a></p>
 
             <!-- Facebook -->
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #3b5998"
-               href="#!"
+               href="https://www.facebook.com/alumnicellnitd"
                role="button"
                ><i class="fab fa-facebook-f"></i
               ></a>
@@ -44,7 +32,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #55acee"
-               href="#!"
+               href="https://twitter.com/alumnicell_nitd"
                role="button"
                ><i class="fab fa-twitter"></i
               ></a>
@@ -54,7 +42,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #ac2bac"
-               href="#!"
+               href="https://www.instagram.com/alumni_cell_nitd/?hl=en"
                role="button"
                ><i class="fab fa-instagram"></i
               ></a>
@@ -63,7 +51,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #0082ca"
-               href="#!"
+               href="https://www.linkedin.com/in/alumni-cell-nit-delhi-4978b0256/"
                role="button"
                ><i class="fab fa-linkedin-in"></i
               ></a>
@@ -80,10 +68,10 @@
               <a class="text-white" href="#">HOME</a>
             </p>
             <p>
-              <a class="text-white" href="#">WHY RECRUITE @ NITD</a>
+              <a class="text-white" href="#">ABOUT ALUMNI CELL</a>
             </p>
             <p>
-              <a class="text-white" href="#">FOR RECRUITERS</a>
+              <a class="text-white" href="#">NEW ALUMNI</a>
             </p>
             <p>
               <a class="text-white" href="#">TEAM</a>
@@ -102,8 +90,7 @@
           <!-- Grid column -->
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class=" mb-4 font-weight-bold footer-heading">Contact Details</h6>
-            <p><i class="fas fa-envelope mr-3"></i> tnp@nitdelhi.ac.in</p>
-            <p><i class="fas fa-envelope mr-3"></i> tnp.nitdelhi.ac.in</p>
+            <p><i class="fas fa-envelope mr-3"></i> alumni@nitdelhi.ac.in</p>
             <p><i class="fa-sharp fa-solid fa-location-dot"></i> Address:
             <br>National Institute Of Technology
             <br>Plot No. FA7,Zone P1,
@@ -115,12 +102,12 @@
 
 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
   <h6 class=" mb-4 font-weight-bold footer-heading">
-    Head T&P Cell
+    Head Alumni Cell
   </h6>
   <p>
     Dr. Kapil Sharma
   </p>
-  <p>tnp@nitdelhi.ac.in</p>
+  <p>alumni@nitdelhi.ac.in</p>
   <p>Phone: 011-33861065, 183</p>
 </div>
 <!-- Grid column -->
