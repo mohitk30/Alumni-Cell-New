@@ -1,4 +1,5 @@
 <?php include './utility/header.php'  ?>
+<?php include './utility/navbar.php'  ?>
 <!-- this file contain the messages section -->
 
 <div class="messages_container">

@@ -1,4 +1,5 @@
 <?php include('./utility/header.php') ?>
+<?php include './utility/navbar.php'  ?>
 <!-- this file contain the all code for teams page (the same code we have designed for teams page in old alumni call website) -->
 
 <div class="team_container">

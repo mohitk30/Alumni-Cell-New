@@ -1,5 +1,6 @@
  
 <?php include './utility/header.php' ?>
+<?php include './utility/navbar.php'  ?>
  
 <!-- this file contain the about section -->
 <div class="about_container">
