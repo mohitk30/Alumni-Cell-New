@@ -543,6 +543,11 @@ dt {
 
 /* navbar  Rohit Beniwal*/
 
+.nav-item:hover{
+  background-color: lightgrey;
+  border-radius: 18px;
+}
+
 nav>.container-fluid img {
   width: 5%;
   margin-left: 2rem;
