@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
       <ul class="navbar-nav mb-2 mb-lg-0">
         <li class="nav-item px-2">
-          <a class="nav-link" href = <?php $BaseURL ?> >Home</a>
+          <a class="nav-link" id="nav-id" href = <?php $BaseURL ?> >Home</a>
         </li>
         <li class="nav-item px-2">
           <a class="nav-link" href= '<?php $BaseURL?>messages.php'>Messages</a>
@@ -28,8 +28,8 @@
         <li class="nav-item px-2">
           <a class="nav-link" href= '<?php $BaseURL?>about.php'>About us</a>
         </li>
-        <li class="nav-item dropdown px-2">
-          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <li class="nav-item dropdown px-2" style="display: flex; align-items: center">
+          <a class="dropdown-toggle" style = "color: #EB455F; text-decoration: none" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Other
           </a>
           <ul class="dropdown-menu">
@@ -47,11 +47,12 @@
         <li class="nav-item px-2">
           <a class="nav-link" href= '<?php $BaseURL?>contact.php'>Contact</a>
         </li>
-        <button type="button" class="btn text-white">New Alumni</button>
+        <button type="button" class="new-Alumni-btn btn">New Alumni</button>
       </ul>
     </div>
   </div>
 </nav>
+
 
 
 

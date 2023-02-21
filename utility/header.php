@@ -15,7 +15,7 @@
      
     <title>Alumni Cell</title>
     <!-- add css files here -->
-    <link rel="stylesheet" href="./style/main.css">
+    <link rel="stylesheet" href="./style/main.css?v=<?php echo time(); ?>">
 </head>
 
 
