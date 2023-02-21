@@ -567,14 +567,18 @@ nav>.container-fluid .btn {
   border-radius: 0%;
   font-weight: 400;
   background: #2B3467;
+  color: white;
   padding: 0rem 2rem;
   margin-left: 4rem;
   margin-right: 2rem;
+  transition: all 0.3s;
 }
 
-nav>.container-fluid .btn:hover {
-  background: #2B3467;
+
+nav>.container-fluid .btn:hover{
+  background: #EB455F;
 }
+
 
 nav>.container-fluid .cell {
   color: #EB455F;
@@ -703,11 +707,3 @@ nav>.container-fluid .college {
   font-style: normal;
   padding-left: 4%;
 }
-
-/* Footer Rohit Beniwal */
-
-.footer-heading{
-  font-size: 1.3rem;
-}
-
-/* Footer End */
