@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
       <ul class="navbar-nav mb-2 mb-lg-0">
         <li class="nav-item px-2">
-          <a class="nav-link" id="nav-id" href = <?php $BaseURL ?> >Home</a>
+          <a class="nav-link" id="nav-id" href = './' >Home</a>
         </li>
         <li class="nav-item px-2">
           <a class="nav-link" href= '<?php $BaseURL?>messages.php'>Messages</a>
