@@ -165,45 +165,6 @@ body {
   color: #FFFFFF;
 }
 
-.footer-container {
-  margin: auto;
-  width: 100%;
-  max-width: 1440px;
-
-
-}
-
-.footer {
-  background-color: #BAD7E9;
-  margin: auto;
-  width: 100%;
-  /* border: 3px; */
-  /* padding-top: 1.5%; */
-  /* padding-left: 40%; */
-
-}
-
-.Dfoot {
-
-  margin: auto;
-
-  /* border: 3px; */
-  padding: 22px;
-
-  text-align: center;
-  font-weight: 600;
-
-}
-
-.copyrights {
-  padding: 22px;
-  width: 100%;
-}
-
-.flex-container {
-  display: flex;
-  padding: 22px;
-}
 
 .container {
   display: flex;
@@ -580,7 +541,12 @@ dt {
   font-style: normal;
 }
 
-/* navbar */
+/* navbar  Rohit Beniwal*/
+
+.nav-item:hover{
+  background-color: lightgrey;
+  border-radius: 18px;
+}
 
 nav>.container-fluid img {
   width: 5%;
@@ -658,6 +624,8 @@ nav>.container-fluid .college {
 
 
 }
+
+/* Navbar End */
 
 .dirmsg {
   font-family: 'Open Sans';
@@ -745,7 +713,8 @@ nav>.container-fluid .college {
   padding-left: 4%;
 }
 
-.nav-item:hover{
-  background-color: lightgrey;
-  border-radius: 18px;
+/* Footer Rohit Beniwal */
+.footer-heading{
+  font-size: 1.3rem;
 }
+/* Footer End */
