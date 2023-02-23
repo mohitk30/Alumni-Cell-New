@@ -165,45 +165,6 @@ body {
   color: #FFFFFF;
 }
 
-.footer-container {
-  margin: auto;
-  width: 100%;
-  max-width: 1440px;
-
-
-}
-
-.footer {
-  background-color: #BAD7E9;
-  margin: auto;
-  width: 100%;
-  /* border: 3px; */
-  /* padding-top: 1.5%; */
-  /* padding-left: 40%; */
-
-}
-
-.Dfoot {
-
-  margin: auto;
-
-  /* border: 3px; */
-  padding: 22px;
-
-  text-align: center;
-  font-weight: 600;
-
-}
-
-.copyrights {
-  padding: 22px;
-  width: 100%;
-}
-
-.flex-container {
-  display: flex;
-  padding: 22px;
-}
 
 .container {
   display: flex;
@@ -473,9 +434,9 @@ body {
   height: 400px;
 }
 
-body {
+/* body {
   background-color: #FCFFE7
-}
+} */
 
 h1 {
   margin-left: 5%;
@@ -580,7 +541,12 @@ dt {
   font-style: normal;
 }
 
-/* navbar */
+/* navbar  Rohit Beniwal*/
+
+.nav-item:hover{
+  background-color: lightgrey;
+  border-radius: 18px;
+}
 
 nav>.container-fluid img {
   width: 5%;
@@ -606,14 +572,18 @@ nav>.container-fluid .btn {
   border-radius: 0%;
   font-weight: 400;
   background: #2B3467;
+  color: white;
   padding: 0rem 2rem;
   margin-left: 4rem;
   margin-right: 2rem;
+  transition: all 0.3s;
 }
 
-nav>.container-fluid .btn:hover {
-  background: #2B3467;
+
+nav>.container-fluid .btn:hover{
+  background: #EB455F;
 }
+
 
 nav>.container-fluid .cell {
   color: #EB455F;
@@ -654,6 +624,8 @@ nav>.container-fluid .college {
 
 
 }
+
+/* Navbar End */
 
 .dirmsg {
   font-family: 'Open Sans';
@@ -739,7 +711,10 @@ nav>.container-fluid .college {
   font-family: 'Open Sans';
   font-style: normal;
   padding-left: 4%;
+
 } 
+
+
 /* Satwik Agarwal gallary page*/
 * {
   box-sizing: border-box;
@@ -784,3 +759,12 @@ img:hover {
   box-shadow: none;
   transform: scale(1.1);
 }
+
+}
+
+/* Footer Rohit Beniwal */
+.footer-heading{
+  font-size: 1.3rem;
+}
+/* Footer End */
+
