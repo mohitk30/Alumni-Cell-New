@@ -265,6 +265,7 @@ body {
   padding-bottom: 5%;
 
   color: #000000;
+  text-align: justify;
 
 }
 
@@ -483,7 +484,7 @@ h3 {
   margin-bottom: 5%;
   margin-top: 2%;
 
-
+  text-align: justify;
 
 }
 
@@ -636,7 +637,8 @@ nav>.container-fluid .college {
   padding-bottom: 5%;
   padding-top: 5%;
   font-size: 17px;
-
+  text-align: justify;
+  
 }
 
 .DrMsg {
@@ -653,7 +655,8 @@ nav>.container-fluid .college {
   letter-spacing: -0.02em;
 
   color: #EB455F;
-
+  text-align: justify;
+  
 }
 
 .directorpic {
@@ -669,6 +672,8 @@ nav>.container-fluid .college {
   font-family: 'Open Sans';
   font-style: normal;
   padding-left: 4%;
+  text-align: justify;
+
 }
 
 .chairmanmsg {
@@ -680,6 +685,7 @@ nav>.container-fluid .college {
   padding-bottom: 5%;
   padding-top: 5%;
   font-size: 17px;
+  text-align: justify;
 }
 
 .ChMsg {
@@ -696,6 +702,7 @@ nav>.container-fluid .college {
   letter-spacing: -0.02em;
 
   color: #EB455F;
+  text-align: justify;
 }
 
 .chairmanpic {
