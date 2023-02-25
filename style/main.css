@@ -777,3 +777,53 @@ img:hover {
 }
 /* Footer End */
 
+/* team page css start */
+
+.t-title
+{
+  font-family: 'Open Sans', sans-serif;
+}
+.team-title
+{
+  text-align: center;
+  background-color: #FCFFE7;
+}
+.nplate
+{
+  /* margin: 4% 10% 4% 10%; */
+  transition: box-shadow .3s;
+  transition: transform .3s;
+  border: 1px solid #ccc;
+  /* display: inline-block; */
+  margin: 3% 10%;
+}
+.nplate:hover {
+  box-shadow: 0 0 11px rgba(30, 29, 29, 0.575);
+  transform: scale(1.05);
+}
+.nplates
+{
+  /* margin: 4% 10% 4% 10%; */
+  transition: box-shadow .3s;
+  transition: transform .3s;
+  border: 1px solid #ccc;
+  /* display: inline-block; */
+  margin: 3% 3%;
+}
+.nplates:hover {
+  box-shadow: 0 0 11px rgba(30, 29, 29, 0.575);
+  transform: scale(1.05);
+}
+.icons
+{
+  padding: 1% 5%;
+}
+:any-link {
+ text-decoration: none;
+}
+.container
+{
+  padding:2%;
+}
+/* team page css end */
+
