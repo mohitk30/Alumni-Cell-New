@@ -1030,4 +1030,10 @@ font-size: 28px;
 }
 /* team page css end */
 
-
+/* gallery Rohit Beniwal */
+.gallery-image{
+width: 90%;
+border: 2px dashed black;
+border-radius: 8px;
+padding: 1rem;
+}
