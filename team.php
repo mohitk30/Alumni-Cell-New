@@ -10,7 +10,7 @@
       <h1 style="color:#fff; background-color:#990000; padding: 0 4%;"> THE TEAM 2022 </h1>
     </div>
     </div>
-    <div class="container">
+
       <div class="row justify-content-md-center">
     <div class="card nplate col-lg-6 col-md-12" style="width: 18rem; height:25rem;">
       <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\Sanskar.jpg" alt="">
@@ -53,10 +53,10 @@
         </a></p>
       </div>
     </div>
-    </div>
+
   </div>
   <!-- 3 member row -->
-  <div class="container">
+
     <div class="row justify-content-md-center">
       <div class="card nplates col-lg-3 col-md-12" style="width: 18rem; height:25rem;">
         <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\profilePic - DEEPAK SHARMA.jpeg" alt="">
@@ -127,9 +127,9 @@
         </div>
       </div>
       </div>
-  </div>
+
   <!-- 2 member row -->
-  <div class="container">
+
     <div class="row justify-content-md-center">
   <div class="card nplate col-lg-6 col-md-12" style="width: 18rem; height:25rem;">
     <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\my_image_2 - Mohit Kumar.jpeg" alt="">
@@ -181,9 +181,9 @@
     </div>
   </div>
   </div>
-</div>
+
 <!-- 2 member row end -->
-<div class="container">
+
   <div class="row justify-content-md-center">
     <div class="card nplates col-lg-3 col-md-12" style="width: 18rem; height:25rem;">
       <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\IMG_20230209_055251-removebg-preview - ROHIT BENIWAL.jpg" alt="">
@@ -258,8 +258,8 @@
       </div>
     </div>
     </div>
-</div>
-<div class="container">
+
+
   <div class="row justify-content-md-center">
     <div class="card nplates col-lg-3 col-md-12" style="width: 18rem; height:25rem;">
       <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\WhatsApp Image 2023-02-10 at 09.15.17 - SUNNY MAURYA(1).jpeg" alt="">
@@ -337,8 +337,8 @@
       </div>
     </div>
     </div>
-</div>
-<div class="container">
+
+
   <div class="row justify-content-md-center">
     <div class="card nplates col-lg-3 col-md-12" style="width: 18rem; height:25rem;">
       <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\Screenshot_2023-02-11-13-54-06-704-edit_com.google.android.apps.docs - ANUJ KUMAR.jpg" alt="">
@@ -415,8 +415,7 @@
       </div>
     </div>
     </div>
-</div>
-<div class="container">
+
   <div class="row justify-content-md-center">
     <div class="card nplates col-lg-3 col-md-12" style="width: 18rem; height:25rem;">
       <img class="card-img-top" style="object-fit: cover;height:70%;padding:2px;border-radius:8px;" src="team_img\photo my - SONALI KASHYAP.jpeg" alt="">
@@ -491,7 +490,7 @@
         </a></p>
       </div>
     </div>
-    </div>
+
 </div>
 </div>
 </div>
