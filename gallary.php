@@ -4,7 +4,7 @@
 <!-- this file contain the gallary section -->
 <!-- write your code below this line and also don't remove this line -->
 
-<div class="container">
+<div class="containerofgallery">
 
         <div>
             <img src="gallery-1.png" >
