@@ -3,13 +3,13 @@
 
   <!-- Footer -->
   <footer
-          class="text-center text-lg-start text-white pt-5 py-5"
+          class="text-center text-lg-start text-white pt-1"
           style="background-color: #1e1e22;"
           >
     <!-- Grid container -->
     <div class="container p-4 pb-5">
       <!-- Section: Links -->
-      <section class="">
+      <section class="w-100">
         <!--Grid row-->
         <div class="row">
 
@@ -62,7 +62,7 @@
           <hr class="w-100 clearfix d-md-none" />
 
           <!-- Grid column -->
-          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+          <div class="col-md-2 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class=" mb-4 font-weight-bold footer-heading">Information Link</h6>
             <p>
               <a class="text-white" href="#">HOME</a>
@@ -100,16 +100,16 @@
           </div>
           <!-- Grid column -->
 
-<div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-  <h6 class=" mb-4 font-weight-bold footer-heading">
-    Head Alumni Cell
-  </h6>
-  <p>
-    Dr. Kapil Sharma
-  </p>
-  <p>alumni@nitdelhi.ac.in</p>
-  <p>Phone: 011-33861065, 183</p>
-</div>
+          <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+            <h6 class=" mb-4 font-weight-bold footer-heading">
+              Head Alumni Cell
+            </h6>
+            <p>
+              Dr. Kapil Sharma
+            </p>
+            <p>alumni@nitdelhi.ac.in</p>
+            <p>Phone: 011-33861065, 183</p>
+          </div>
 <!-- Grid column -->
           
         </div>

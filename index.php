@@ -5,16 +5,20 @@ include './utility/navbar.php'
 ?>
 <div class="home_container">
   <!-- write your code below this line and also don't remove this line -->
-  <div class="register">
-    <div class="title-h">Stay <span class="connect">Connected</span> with NIT Delhi Family</div>
-    <span class="subtitle-h">NIT Delhi Alumni Network</span>
-    <div class="register-h">
-      Register new alumni
+  
+  <div class="hero_mk">
+    <div class="register">
+      <div class="title-h">Stay <span class="connect">Connected</span> with NIT Delhi Family</div>
+      <span class="subtitle-h">NIT Delhi Alumni Network</span>
+      <div class="register-h">
+        Register new alumni
+      </div>
+    </div>
+    <div class="home-img-div">
+      <img class="home-img" src="Charco Mobile Life.png" alt="img">
     </div>
   </div>
-  <div class="home-img-div">
-    <img class="home-img" src="Charco Mobile Life.png" alt="img">
-  </div>
+
   <div class="connect-h">
     <span class="c-heading">Stay Connected with Us</span>
     <div class="lilogo">
