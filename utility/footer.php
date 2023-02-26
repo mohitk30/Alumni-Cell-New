@@ -2,7 +2,8 @@
     
 
   <!-- Footer -->
-  <footer class="text-center text-lg-start text-white pt-5 py-5"
+  <footer
+          class="text-center text-lg-start text-white pt-1"
           style="background-color: #1e1e22;"
           >
     <!-- Grid container -->
