@@ -857,6 +857,12 @@ width: 48.71%;
 background-color: #FCFFE7;
 float: left;
 }
+.column1{
+  width: 50%;
+}
+.column2{
+  width: 30%;
+}
 .section2 .col2.last {
 float: right;
 }
