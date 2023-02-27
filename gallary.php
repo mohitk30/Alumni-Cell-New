@@ -5,41 +5,54 @@
 <!-- write your code below this line and also don't remove this line -->
 
 <div class="containerofgallery">
-
-        <div>
-            <img src="gallery-1.png" >
+        <div class="row">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-1.png" >
         </div>
 
-        <div>
-            <img src="gallery-1.png">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-1.png" >
+        </div>
+        </div>
+        
+    <div class="row">
+    <div class="my-4 col">
+            <img class="gallery-image" src="gallery-1.png" >
         </div>
 
-        <div>
-            <img src="gallery-1.png">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-1.png" >
+        </div>
+    </div>
+       
+    <div class="row">
+    <div class="my-4 col">
+            <img class="gallery-image" src="gallery-1.png" >
         </div>
 
-        <div>
-            <img src="gallery-1.png">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-2.png" >
+        </div>
+    </div>
+        
+<div class="row">
+<div class="my-4 col">
+            <img class="gallery-image" src="gallery-2.png" >
         </div>
 
-        <div>
-            <img src="gallery-1.png">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-2.png" >
         </div>
-
-        <div>
-            <img src="gallery-2.png">
+</div>
+        <div class="row">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-2.png" >
         </div>
-
-        <div>
-            <img src="gallery-2.png">
+        <div class="my-4 col">
+            <img class="gallery-image" src="gallery-2.png" >
         </div>
-
-        <div>
-            <img src="gallery-2.png">
         </div>
-        <div>
-            <img src="gallery-2.png">
-        </div>
+        
 </div>
 
 <?php include './utility/footer.php' ?>

@@ -94,7 +94,6 @@
             <p><i class="fa-sharp fa-solid fa-location-dot"></i> Address:
             <br>National Institute Of Technology
             <br>Plot No. FA7,Zone P1,
-            <br>Chandra Hospital
             <br>GT Karnal Road, Delhi-110036
             </p>
           </div>
